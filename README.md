@@ -2,7 +2,7 @@
 
   
   
-  <h1 align="center">Heyy wasupp? I'm Sumanth 🤙<width="30px"></h1>
+  <h1 align="center">Heyy wasupp? I'm DWWara 🤙<width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
   
@@ -11,7 +11,7 @@
 
 
 <!--
-**SumanthBajjuri07/SumanthBajjuri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DWWara/SumanthBajjuri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -130,7 +130,7 @@ Here are some ideas to get you started:
   
   
   
-  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
+
   
   
   
@@ -196,6 +196,6 @@ Here are some ideas to get you started:
   
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Credit: [SumanthBajjuri07](https://github.com/SumanthBajjuri07)
+Credit: [DWWara](https://github.com/DWWara)
 Last Edited on: 31/08/2021 format.
 
