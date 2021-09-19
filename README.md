@@ -174,7 +174,7 @@ Here are some ideas to get you started:
   ## ⚡️ Let's talk more:
 
 <p align="left"> 
-    <a href="https://www.linkedin.com/in/sumanth-bajjuri/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
+    <a href="https://www.linkedin.com/in/danw-wara/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
     <a href="sumanth.bajjuri8121@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
    <a href="https://twitter.com/SumanthBajjuri?s=08" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="express" width="37" height="37"/> </a>
     <a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
